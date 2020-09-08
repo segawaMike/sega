@@ -1,0 +1,37 @@
+.checkout{
+	display: flex;
+	padding:20px;
+	height: max-content;
+}
+
+.checkout__products{
+	flex:1;
+}
+
+
+.checkout__products>img{
+	width: 100%;
+	height: 150px;
+	object-fit: cover;
+	
+}
+.checkout__products>h2{
+	margin-left: 10px;
+	padding: 10px;
+
+}
+.checkout__products>p{
+	margin-left: 10px;
+	padding: 10px;
+
+}
+
+
+@media only screen and (max-width: 480px) {
+ .checkout{
+	display: flex;
+	padding:20px;
+	height: max-content;
+	flex-direction: column;
+}
+}
