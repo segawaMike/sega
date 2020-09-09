@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "077de2e6fdfb7cba9a2f8317b893dfbd",
+    "revision": "633b947e4b7b23bba051774f15accec1",
     "url": "/sega/index.html"
   },
   {
-    "revision": "4525220fe12e9462e878",
+    "revision": "f5f9a3cb8e9a013d9622",
     "url": "/sega/static/css/main.0a203f4f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sega/static/js/2.78b9947e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4525220fe12e9462e878",
-    "url": "/sega/static/js/main.f6bda426.chunk.js"
+    "revision": "f5f9a3cb8e9a013d9622",
+    "url": "/sega/static/js/main.4449c9e8.chunk.js"
   },
   {
     "revision": "a8c4580685ecba540e4c",

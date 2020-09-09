@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sega/precache-manifest.3c72f3b8775553c2a001f33094405e3c.js"
+  "/sega/precache-manifest.f1aaf5cdca318d80051349a0c6b0fc7a.js"
 );
 
 self.addEventListener('message', (event) => {
